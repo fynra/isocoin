@@ -1,0 +1,9 @@
+Building Isocoin
+
+See doc/readme-qt.rst for instructions on building Isocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Isocoin.
+
+See doc/build-*.txt for instructions on building isocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Isocoin.
